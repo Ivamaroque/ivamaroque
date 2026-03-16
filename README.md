@@ -22,5 +22,6 @@ Stack
 ![C#](https://img.shields.io/badge/CSharp-262671?style=flat-square&logo=csharp&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-262671?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-262671?style=flat-square&logo=typescript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/Angular-262671?style=flat-square&logo=angular&logoColor=white)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=262671&height=100&section=footer"/>
