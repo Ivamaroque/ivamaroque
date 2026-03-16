@@ -1,12 +1,22 @@
-## Hi 👋, I'm Ivamar Roque
+<img src="https://capsule-render.vercel.app/api?type=waving&color=262671&height=120&section=header"/>
 
-Backend-focused developer working mainly with **.NET and C#**.
+<h2 align="center">Hi 👋, I'm Ivamar Roque</h2>
+
+<p align="center">
+Backend-focused developer working mainly with <b>.NET and C#</b>
+</p>
+
+<p align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-Ivamar.Roque-262671?style=flat-square&labelColor=262671&logo=instagram&logoColor=white)](https://www.instagram.com/ivamaroque/)
-[![Linkedin Badge](https://img.shields.io/badge/-Ivamar%20Roque-262671?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivamaroque/)
+[![Linkedin Badge](https://img.shields.io/badge/-Ivamar%20Roque-262671?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivamaroque/)
 [![GMail Badge](https://img.shields.io/badge/ivamaroque@gmail.com-262671?style=flat-square&labelColor=262671&logo=gmail&logoColor=white)](mailto:ivamaroque@gmail.com)
 
-I like solving engineering problems and designing scalable systems.  
-My work focuses on **backend architecture, API design and performance**.
+</p>
 
-Stack: .NET • C# • SQL Server • TypeScript
+I enjoy solving **engineering problems** and designing **scalable backend systems**.
+
+Stack:  
+.NET • C# • SQL Server • TypeScript
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=262671&height=100&section=footer"/>
