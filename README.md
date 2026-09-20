@@ -3,7 +3,7 @@
 <h2 align="center">Hi 👋, I'm Ivamar Roque</h2>
 
 <p align="center">
-Backend-focused developer working mainly with <b>.NET and C#</b>
+Full-Stack developer working mainly with <b>.NET, Angular, LLM and Next.JS</b>
 </p>
 
 <p align="center">
